@@ -67,5 +67,5 @@ In this Project, I found that from January 2020 to Feburary 2021 there was rapid
 Covid Pandemic was a really tough period for the whole world. The whole world has suffered from the high death rate in 2020-21. This project is just for the knowledge to imagine the situation we all have gone through. This Project gives a brief knowledge about the number of deaths and number of people struggled in the Queues for their medical treatment. This also shows how we were lacking from the avaliability of medicines and proper medical treatment and facilities due to which the pending cases goes on increasing but lastly we got the success in controlling this pandemic situations and dealing with the Corona Virus.
 
 #### Author :
-. [@Ritika821]()
-Ritika - Data Analyst
+. [@Ritika821](https://github.com/Ritika821)
+. Ritika - Data Analyst
