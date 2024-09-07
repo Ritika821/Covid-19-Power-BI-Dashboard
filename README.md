@@ -42,7 +42,7 @@ In my Project, I got that from Feburary 2020 there was continuous increase in de
 **4. Number of Deaths by Quarter :**
 In this Project, I got that from the 1st Quarter of 2020 to the 1st Quarter of 2021 there was continuous increase in the death rate of the people due to Corona Virus which was displayed in the Line Chart.
 
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Covid-19-Power-BI-Dashboard/blob/main/Graphs/Death%20by%20Quarters.png">
 </a>
 
 **5. Number of Deaths :**
