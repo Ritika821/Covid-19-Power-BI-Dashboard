@@ -54,7 +54,7 @@ It was shown that there was total 73M death out of 147M that was presented in th
 **6. Negative Patient out of Total Tests :**
 In this Project, I got that from March 2020 to Feburary 2021 the Negative Report has increased rapidly and afterward in March 2021 it has decreased which was presented in Matrix Table.
 
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Covid-19-Power-BI-Dashboard/blob/main/Graphs/Negative%20in%20Total%20Tests.png">
 </a>
 
 **7. Positive Patient out of Total Tests :**
