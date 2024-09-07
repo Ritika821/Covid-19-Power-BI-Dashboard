@@ -60,7 +60,7 @@ In this Project, I got that from March 2020 to Feburary 2021 the Negative Report
 **7. Positive Patient out of Total Tests :**
 In this Project, I found that from January 2020 to Feburary 2021 there was rapid growth in Positive Report which was greater than Negative Report and after that it was decreased in March 2021 but still its rate was greater than Negative Report that was shown in Matrix Table.
 
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Covid-19-Power-BI-Dashboard/blob/main/Graphs/Positive%20in%20Total%20Tests.png">
 </a>
 
 ### Conclusion :
