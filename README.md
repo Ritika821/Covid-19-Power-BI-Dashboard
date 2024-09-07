@@ -36,7 +36,7 @@ From this Project, I found that in 1st Quarter the number of pending patients is
 **3. Number of Deaths by Months :**
 In my Project, I got that from Feburary 2020 there was continuous increase in death rate till Feburary 2021 and afterward there was a drastic decline in death rate which was displayed in the Line Chart.
 
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Covid-19-Power-BI-Dashboard/blob/main/Graphs/Death%20by%20Months.png">
 </a>
 
 **4. Number of Deaths by Quarter :**
