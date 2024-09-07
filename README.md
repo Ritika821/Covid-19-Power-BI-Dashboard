@@ -48,7 +48,7 @@ In this Project, I got that from the 1st Quarter of 2020 to the 1st Quarter of 2
 **5. Number of Deaths :**
 It was shown that there was total 73M death out of 147M that was presented in the Gauge Chart.
 
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Covid-19-Power-BI-Dashboard/blob/main/Graphs/Number%20of%20Deaths.png">
 </a>
 
 **6. Negative Patient out of Total Tests :**
