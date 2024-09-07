@@ -7,7 +7,9 @@ This is about 2020-21 pandemic. COVID-19 is a contagious disease caused by the c
 <a><img align="centre" src="https://github.com/Ritika821/Covid-19-Power-BI-Dashboard/blob/main/Graphs/Corona.jpg" width="1200" height="500">
 </a>
 
-### This Project includes :
+
+### This Project Includes :
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 - Identifing the Problem
 - Data Cleaning and Processing
 - Performing Descriptive Analysis
@@ -15,12 +17,14 @@ This is about 2020-21 pandemic. COVID-19 is a contagious disease caused by the c
 - Creation of Dashboard
 
 ### Project KPI :
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 In this project, the generated Measures show Average Number of Positive Tests i.e. 8.12M, Average Number of Negative Tests i.e. 30.30M, Average Number of Hospitalized is 57.99K, Average Number of people on Ventilation is 3.98K and Average Number of people in ICU is 12.06K out of 45 billions total tests from 2020-21. These data are shown in the form of KPI in the Dashboard.
 
 <a><img align="centre" src="https://github.com/Ritika821/Covid-19-Power-BI-Dashboard/blob/main/Graphs/KPI.png">
 </a>
 
 ### Insights of the Project :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 **1. Pending Patients by Months :**
 From the Project, I found that in March pendings were more as at that time medical requirements for a huge number of patient is less whereas it was decreased in June that was presented in the Table.
 
@@ -63,9 +67,12 @@ In this Project, I found that from January 2020 to Feburary 2021 there was rapid
 <a><img align="centre" src="https://github.com/Ritika821/Covid-19-Power-BI-Dashboard/blob/main/Graphs/Positive%20in%20Total%20Tests.png">
 </a>
 
+
 ### Conclusion :
+------------------------------------------------------------------------------------------------------------------------------------
 Covid Pandemic was a really tough period for the whole world. The whole world has suffered from the high death rate in 2020-21. This project is just for the knowledge to imagine the situation we all have gone through. This Project gives a brief knowledge about the number of deaths and number of people struggled in the Queues for their medical treatment. This also shows how we were lacking from the avaliability of medicines and proper medical treatment and facilities due to which the pending cases goes on increasing but lastly we got the success in controlling this pandemic situations and dealing with the Corona Virus.
 
-#### Author :
+### Author :
+--------------------------------------------------------------------------------------------------------------------------------------------------
 . [@Ritika821](https://github.com/Ritika821)
 . Ritika - Data Analyst
