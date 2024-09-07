@@ -24,7 +24,7 @@ In this project, the generated Measures show Average Number of Positive Tests i.
 **1. Pending Patients by Months :**
 From the Project, I found that in March pendings were more as at that time medical requirements for a huge number of patient is less whereas it was decreased in June that was presented in the Table.
 
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Covid-19-Power-BI-Dashboard/blob/main/Graphs/Pending%20by%20Months.png">
 </a>
 
 **2. Pending Patients by Quarters :**
