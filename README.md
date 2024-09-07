@@ -30,7 +30,7 @@ From the Project, I found that in March pendings were more as at that time medic
 **2. Pending Patients by Quarters :**
 From this Project, I found that in 1st Quarter the number of pending patients is higher as may be it was the starting phase of Corona time and it dcreased till 3rd Quarter but in the 4th Quarter it was again rose due to lack of proper medical treatment that was displayed in the Table.
 
-<a><img align="centre" src="">
+<a><img align="centre" src="https://github.com/Ritika821/Covid-19-Power-BI-Dashboard/blob/main/Graphs/Pending%20by%20Quarters.png">
 </a>
 
 **3. Number of Deaths by Months :**
