@@ -83,5 +83,5 @@ Covid Pandemic was a really tough period for the whole world. The whole world ha
 
 ## Author :
 --------------------------------------------------------------------------------------------------------------------------------------------------
-. [@Ritika821](https://github.com/Ritika821)
-. Ritika - Data Analyst
+- [@Ritika821](https://github.com/Ritika821)
+- Ritika - Data Analyst
