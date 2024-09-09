@@ -2,7 +2,7 @@
 
 
 ## Introduction :
----------------------------------------------------------------------------------------------------------------------------------------
+
 This is about 2020-21 pandemic. COVID-19 is a contagious disease caused by the coronavirus SARS-CoV-2. In India this pandemic started from January 2020 with a few rate but afterward spread in all over the country and became one of the memorable pandemic in the history of the world. In this project the covered things are the number of death in the Covid-19 in India, number of positive and negative in the total test. These all are showed in the dashboard or per month report of 2020-21. It also shares the information of the number of people hospitalized, admit in ICU or in Ventilator per month and was compared with the total death rate.Covid 19 Data is the best example for practising the Data Visualisation techniques and also provide us some meaningful information about the struggle of the individuals to fight from the contagious disease during 2020-21.
 
 <a><img align="centre" src="https://github.com/Ritika821/Covid-19-Power-BI-Dashboard/blob/main/Graphs/Corona.jpg" width="700" height="300">
