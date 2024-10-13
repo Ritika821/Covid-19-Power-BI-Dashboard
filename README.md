@@ -23,6 +23,15 @@ This is about 2020-21 pandemic. COVID-19 is a contagious disease caused by the c
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
+## Dashboard :
+
+<p align="left">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTM0MzI5NTctNWQxNC00YzA2LThhN2MtMmJhMGNiNzk0ZTZkIiwidCI6ImQ0YjRjNTZiLTU0N2MtNDU3Mi04MmMyLWM4YzFhMWQ2MGZmMCJ9"><img src="Graphs/Quarter & Negative.png" alt="Excel"/>
+</a></p>
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Project KPI :
 
 In this project, the generated Measures show Average Number of Positive Tests i.e. 8.12M, Average Number of Negative Tests i.e. 30.30M, Average Number of Hospitalized is 57.99K, Average Number of people on Ventilation is 3.98K and Average Number of people in ICU is 12.06K out of 45 billions total tests from 2020-21. These data are shown in the form of KPI in the Dashboard.
